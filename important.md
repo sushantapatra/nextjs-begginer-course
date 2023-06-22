@@ -26,3 +26,8 @@
 ##create css file
 =>create a styles folder inside app folder(app/styles)
 =>component.module.css (navbar.module.js)
+
+### run mongodb database
+
+=> brew services start mongodb-community@6.0
+=> brew services stop mongodb-community@6.0
